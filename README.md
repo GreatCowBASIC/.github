@@ -1,17 +1,17 @@
 ![Open Source at GCBasic](https://github.com/GreatCowBASIC/GreatCowBASIC/blob/main/Images/open-at-GCB.png) 
 
-## Get Involved
-
-There is a lot of opportunities to get involved on GCB, and you don’t need to be a developer to help.
-You can report issues or contribute with documentation.
-This is an excellent [Guide]( https://opensource.guide/how-to-contribute/) if you want to help.
-
-
 * [Explore our projects](https://github.com/GreatCowBASIC?tab=repositories)
 
 Visit [GCBasic.com](https://gcbasic.com) to learn more!
 
 Join the [Discussion](https://sourceforge.net/p/gcbasic/discussion/)
+
+## Get Involved
+
+There is a lot of opportunities to get involved on GCB, and you don’t need to be a developer to help.
+You can report issues or contribute with documentation.
+This is an excellent [Guide to Contribute]( https://opensource.guide/how-to-contribute/) if you want to help.
+
 
 ----
 
