@@ -2,10 +2,11 @@
 
 * [Explore our projects](https://github.com/GreatCowBASIC?tab=repositories)
 
-Visit [GCBasic.com](https://gcbasic.com) to learn more!
+* Visit [GCBasic.com](https://gcbasic.com) to learn more!
 
-Join the [Discussion](https://sourceforge.net/p/gcbasic/discussion/)
+* Join the [Discussion](https://sourceforge.net/p/gcbasic/discussion/)
 
+----
 ## Get Involved
 
 There is a lot of opportunities to get involved on GCB, and you don’t need to be a developer to help.
