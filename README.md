@@ -2,9 +2,12 @@
 
 ## Get Involved
 
-Open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.
+There is a lot of opportunities to get involved on GCB, and you don’t need to be a developer to help.
+You can report issues or contribute with documentation.
+This is an excellent [Guide]( https://opensource.guide/how-to-contribute/) if you want to help.
 
-* [Explore featured projects](https://github.com/GreatCowBASIC?tab=repositories)
+
+* [Explore our projects](https://github.com/GreatCowBASIC?tab=repositories)
 
 Visit [GCBasic.com](https://gcbasic.com) to learn more!
 
