@@ -1,8 +1,6 @@
 ![Open Source at GCBasic](https://github.com/GreatCowBASIC/GreatCowBASIC/blob/main/Images/open-at-GCB.png) 
 
 ## Installer Download:
-
-Simply select the link below to download the latest release of GC Studio.
 #### [GC Studio Latest Installer](https://sourceforge.net/projects/gcbasic/files/GCStudio%20-%20Complete%20IDE%20and%20Toolchain%20for%20Windows/GCstudioSetup.exe/download)
 #### [GCB Demonstrations Pack](https://sourceforge.net/projects/gcbasic/files/GCStudio%20-%20Complete%20IDE%20and%20Toolchain%20for%20Windows/GCBdemonstrationsPack.exe/download)
 
@@ -11,8 +9,8 @@ Simply select the link below to download the latest release of GC Studio.
 
 #### [Road Map](https://www.gcbasic.com/bugtracking/roadmap_page.php)
 
-## Report a Bug!
-[BugTracker](https://www.gcbasic.com/bugtracking/bug_report_page.php)
+## Report a Bug! [BugTracker](https://www.gcbasic.com/bugtracking/bug_report_page.php)
+----
 
 * [Explore our projects](https://github.com/GreatCowBASIC?tab=repositories)
 
