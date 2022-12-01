@@ -2,7 +2,7 @@
 
 ## Installer Download:
 #### [GC Studio Latest Installer](https://sourceforge.net/projects/gcbasic/files/GCStudio%20-%20Complete%20IDE%20and%20Toolchain%20for%20Windows/GCstudioSetup.exe/download)
-#### [GCB Demonstrations Pack](https://sourceforge.net/projects/gcbasic/files/GCStudio%20-%20Complete%20IDE%20and%20Toolchain%20for%20Windows/GCBdemonstrationsPack.exe/download)
+#### [GCB Demonstrations Pack](https://sourceforge.net/projects/gcbasic/files/GCStudio%20-%20Complete%20IDE%20and%20Toolchain%20for%20Windows/GCBdemonstrationsPack.exe/download) (Adds project demos to GC Studio)
 
 ## Changes:
 #### [Full Change Log](https://www.gcbasic.com/bugtracking/changelog_page.php)
