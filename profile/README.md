@@ -15,6 +15,7 @@
 
 * [Explore our projects](https://github.com/GreatCowBASIC?tab=repositories)
 * Join the [Discussion](https://sourceforge.net/p/gcbasic/discussion/)
+* [Donate](https://gcbasic.com/donate/) to the project
 
 ----
 ## Get Involved
