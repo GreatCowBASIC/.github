@@ -1,4 +1,5 @@
 ![Open Source at GCBasic](https://github.com/GreatCowBASIC/GreatCowBASIC/blob/main/Images/open-at-GCB.png) 
+## Visit [www.GCBasic.com](https://gcbasic.com) to learn more!
 
 ## Installer Download:
 #### [GC Studio Latest Installer](https://sourceforge.net/projects/gcbasic/files/GCStudio%20-%20Complete%20IDE%20and%20Toolchain%20for%20Windows/GCstudioSetup.exe/download)
@@ -13,9 +14,6 @@
 ----
 
 * [Explore our projects](https://github.com/GreatCowBASIC?tab=repositories)
-
-* Visit [GCBasic.com](https://gcbasic.com) to learn more!
-
 * Join the [Discussion](https://sourceforge.net/p/gcbasic/discussion/)
 
 ----
